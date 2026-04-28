@@ -2,3 +2,4 @@ timestamp,email_text,prediction,confidence,suspicious_indicators,risk_level
 2026-04-27 18:07:00,Urgent! Your account has been locked. Click here to verify your password.,Phishing,62.12,"Urgent language, Password or credential request, Suspicious link request",High
 2026-04-28 10:22:30,Urgent! Your account has been locked. Click here to verify your password.,Phishing,62.12,"Urgent language, Password or credential request, Suspicious link request",High
 2026-04-28 10:24:29,Your assignment feedback is available on the student portal.,Legitimate,64.88,,Low
+2026-04-28 11:55:48,Urgent! Your account has been locked. Click here to verify your password.,Phishing,62.12,"Urgent language, Password or credential request, Suspicious link request",High

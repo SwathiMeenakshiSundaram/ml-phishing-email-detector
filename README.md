@@ -110,6 +110,15 @@ These are suspicious messages that include phishing-style language such as:
 The dataset file used in the project is:
 phishing_dataset.csv
 
+## Screenshots
+
+### Phishing Email Analysis Result
+
+![Phishing email analysis result](screenshots/phishing-result.png)
+
+### Security Dashboard
+
+![Security dashboard](screenshots/security-dashboard.png)
 
 ### Example 1: Legitimate Email
 
